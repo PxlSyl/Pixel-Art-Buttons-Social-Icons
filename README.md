@@ -14,4 +14,6 @@ Inclus des icônes de médias sociaux ainsi que divers boutons.
 
 Vous êtes libres de les utiliser comme bon  vous semblera!
 
-PxlSyl.
+-------------------------------------------------------------
+
+All designed by PxlSyl.
