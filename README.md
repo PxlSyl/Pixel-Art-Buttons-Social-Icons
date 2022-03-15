@@ -1,6 +1,6 @@
 # Pixel-Art-Buttons-Social-Icons
 
-Pixel Art Design pack for your own website.
+Pixel Art Design pack for your own websites.
 
 Include social media icons and buttons for your minting dapp.
 
